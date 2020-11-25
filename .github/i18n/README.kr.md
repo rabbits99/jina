@@ -397,11 +397,11 @@ Search Pokemon with state-of-the-art visual representation
 
 ## community
 
-- [Slack 작업영역](https://join.slack.com/t/jina-ai/shared_invite/zt-dkl7x8p0-rVCv~3Fdc3~Dpwx7T7XG8w) - #장군에 합류하여 우리 슬랙을 팀원들과 만나 질문하다.
+- [Slack 작업영역](https://join.slack.com/t/jina-ai/shared_invite/zt-dkl7x8p0-rVCv~3Fdc3~Dpwx7T7XG8w) - 우리의 슬랙의 #General에 가입하여 팀원들과 만나 질문하세요.
 - [유튜브 채널](https://youtube.com/c/jina-ai) - 최신 비디오 튜토리얼, 릴리즈 데모, 웨비나 및 프리젠테이션을 구독하십시오.
-- [링크드인](https://www.linkedin.com/company/jinaai/) - 지나 AI를 기업으로서 알게 되고 취업의 기회를 찾다.
-- [![트위터 팔로우](https://img.shields.io/twitter/follow/JinaAI_?label=Follow%20%40JinaAI_&style=social)](https://twitter.com/JinaAI_) - 해시태그로 우리와 교류하다. `#JinaSearch`
-- [회사](https://jina.ai) - 우리 회사에 대해 더 많이 알고 어떻게 우리가 오픈소스에 전념하고 있는지 알고 있다..
+- [링크드인](https://www.linkedin.com/company/jinaai/) - 지나 AI를 기업으로서 알게 되고 취업의 기회를 찾으세요.
+- [![트위터 팔로우](https://img.shields.io/twitter/follow/JinaAI_?label=Follow%20%40JinaAI_&style=social)](https://twitter.com/JinaAI_) - 해시태그로 우리와 교류하세요. `#JinaSearch`
+- [회사](https://jina.ai) - 우리 회사에 대해 더 많이 알고 어떻게 우리가 오픈소스에 전념하고 있는지 알 수 있다.
 
 ## 오픈 거버넌스
 
@@ -422,4 +422,4 @@ Jina는 오픈소스 프로젝트이다. 우리는 풀스택 개발자, evangeli
 
 Copyright (c) 2020 Jina AI Limited. All rights reserved
 
-Jina는 아파치 2.0 라이선스를 사용한다. [라이선스 문서의 전문을 확인하기 위해서는 License를 참조하세요.](LICENSE)
+Jina는 Apache Licence 2.0을 사용한다. [라이선스 문서의 전문을 확인하기 위해서는 License를 참조하세요.](LICENSE)
